@@ -17,13 +17,14 @@ body {
   }
   
   #input {
-    margin: 15 auto;
+    margin: 0 auto;
     border: 3px solid #000;
     text-align: center;
     width: 90%;
     max-width: 50vw;
     font-size: 20px;
     background-color: #484a63;
+    padding-bottom: 2rem;
   }
   
   #number {
